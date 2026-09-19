@@ -7952,15 +7952,6 @@ projects:
     category: None
     labels: ["bsc"]
 
-  - group: true
-    group_id: rtc
-    name: RTC - RustChain
-    homepage: https://rustchain.org
-    description: Proof-of-Antiquity blockchain that rewards vintage and exotic hardware
-      (PowerPC, SPARC, 68K, POWER8) with higher mining multipliers. Features hardware
-      fingerprint attestation (RIP-PoA), Ergo anchoring, and time-aged antiquity bonuses.
-    category: cryptocurrency
-
   # Projects
   - name: vyper
     github_id: vyperlang/vyper
@@ -18339,12 +18330,10 @@ projects:
   - name: ExzoCoin
     github_id: ExzoNetwork/ExzoCoin
     group_id: exzo
-  - name: Rustchain
+  - name: RustChain
     github_id: Scottcjn/Rustchain
-    group_id: rtc
-  - name: bottube
-    github_id: Scottcjn/bottube
-    group_id: rtc
-  - name: ram-coffers
-    github_id: Scottcjn/ram-coffers
-    group_id: rtc
+    homepage: https://rustchain.org
+    description: Experimental layer-1 chain with Proof-of-Antiquity consensus. Hardware
+      fingerprint attestation verifies real vintage and exotic machines (PowerPC, SPARC,
+      68K, POWER8), which carry more weight in consensus.
+    category: None
