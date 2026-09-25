@@ -18336,4 +18336,3 @@ projects:
     description: Experimental layer-1 chain with Proof-of-Antiquity consensus. Hardware
       fingerprint attestation verifies real vintage and exotic machines (PowerPC, SPARC,
       68K, POWER8), which carry more weight in consensus.
-    category: None
